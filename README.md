@@ -2,7 +2,7 @@
 Self-Driving Car Engineer Nanodegree Program
 
 [//]: # (Image References)
-[image1]: ./pictures/EKFresult.gif "EKFSimulator"
+[image1]: ./pictures/EKFResult.gif "EKFSimulator"
 
 ## Result of This Repo
 
